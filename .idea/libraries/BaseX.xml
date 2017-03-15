@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="BaseX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/BaseX.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/xmldb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
